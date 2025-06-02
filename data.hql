@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS weather_db;
+USE weather_db;
+
+CREATE EXTERNAL TABLE IF NOT EXISTS weather_forecast (
+    time STRING,
+    temperature DOUBLE
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION 's3://ldzfinal/raw/file/';
