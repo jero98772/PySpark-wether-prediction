@@ -3,9 +3,9 @@
 # Proyecto 3 — Automatización de Análisis Climático con PySpark y AWS
 
 ### Integrantes
-Felipe Uribe Correa
-Laura Danniela Zárate Guerrero
-Victor Daniela Arango Sohm
+* Felipe Uribe Correa
+* Laura Danniela Zárate Guerrero
+* Victor Daniela Arango Sohm
 
 Este proyecto tiene como objetivo demostrar un flujo completo de ingeniería de datos orientado a escenarios reales de Big Data, utilizando como fuente principal la API pública de Open-Meteo para la captura de datos meteorológicos. La solución abarca desde la ingesta automática de datos, su almacenamiento y procesamiento sobre un clúster EMR de AWS, hasta la publicación de resultados en formatos accesibles para análisis a través de Athena y API Gateway.
 
