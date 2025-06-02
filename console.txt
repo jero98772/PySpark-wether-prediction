@@ -1,0 +1,3 @@
+command-runner.jar
+
+spark-submit s3://ldzfinal/code/weather-file.py s3://ldzfinal/raw/file/open-meteo-52.52N13.42E38m.csv s3://ldzfinal/trusted/
