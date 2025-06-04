@@ -3,7 +3,7 @@
 Este proyecto tiene como objetivo automatizar un pipeline completo de ingeniería de datos en una arquitectura batch. La solución implementada abarca desde la captura e ingesta automática de datos históricos del clima desde una API pública, hasta su almacenamiento, transformación y análisis mediante PySpark sobre Amazon EMR, simulando un flujo de datos empresarial real. Finalmente, los resultados se publican para su consulta desde Athena o mediante APIs.
 
 ### Integrantes
-* Felipe Uribe CorreaAdd commentMore actions
+* Felipe Uribe Correa
 * Laura Danniela Zárate Guerrero
 * Victor Daniela Arango Sohm
 
